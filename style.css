@@ -12,3 +12,9 @@ body{
     margin-top: 80px;
     margin-bottom: 80px;
 }
+heater{
+    font-size: 40px;
+    color:crimson;
+    border-bottom: 3px solid crimson;
+    padding: 20px;
+}
