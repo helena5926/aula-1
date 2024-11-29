@@ -18,3 +18,9 @@ heater{
     border-bottom: 3px solid crimson;
     padding: 20px;
 }
+h1{
+    font-size: 35px;
+}
+.camada-texto{
+    margin-right: 5%;
+}
